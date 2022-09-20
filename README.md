@@ -1,1 +1,1 @@
-<p>The function <texttt>mean</texttt> should take an array of numbers and compute their arithmetic mean. For example, given an array containing 50 and 40 then <texttt>mean</texttt> should return 45. Complete the implementation of this function.</p>
+<p>The function <texttt>average</texttt> should take an array of numbers and compute their arithmetic average. For example, given an array containing 50 and 40 then <texttt>average</texttt> should return 45. Complete the implementation of this function.</p>
